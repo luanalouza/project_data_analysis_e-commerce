@@ -9,3 +9,12 @@ Monitoring sales performance through data analysis allows you to track important
 Data analysis also extends to market research and competitor analysis. By examining market trends, competitor data, and customer feedback, you can uncover opportunities, anticipate threats, and gain a competitive advantage.
 
 In summary, data analysis empowers e-commerce businesses to make data-driven decisions, optimize operations, and enhance customer experiences. By leveraging accurate and relevant data, you can stay ahead in the market and drive growth and profitability.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Instruction 
+
+Open Data_analysis_sales.ipynb
